@@ -12,7 +12,7 @@ class LandingScreenState extends State<LandingScreen> {
   static const numberTruthList = [
     "one",
     "two",
-    "three",
+    "threesdfgsdfgsdgsdgf",
     "four",
     "five",
     "six",
